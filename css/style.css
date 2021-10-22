@@ -1452,6 +1452,7 @@
 
     .sub-footer p {
         position: absolute;
+        width: 200px;
         left: 201px;
         top: 1175px;
         font-family: 'Montserrat';
