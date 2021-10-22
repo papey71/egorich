@@ -917,6 +917,7 @@
 
     .uslug1-phone p {
         position: absolute;
+        width: 160px;
         left: 49.93px;
         top: 473.16px;
         font-family: 'Open Sans';
@@ -1121,6 +1122,7 @@
 
     .o_comp h1 {
         position: absolute;
+        width: 120px;
         left: 266px;
         top: 840px;
         font-family: 'Montserrat';
