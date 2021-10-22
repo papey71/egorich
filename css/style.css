@@ -941,6 +941,7 @@
 
     .uslug1-phone h3 {
         position: absolute;
+        width: 80px;
         left: 123px;
         top: 512.64px;
         font-family: 'Montserrat';
