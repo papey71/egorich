@@ -251,7 +251,7 @@
     </section>
     <footer>
         <div class="logo-footer">
-            <img src="img/glav/logo2.png" alt="">
+            <img class="logo-footer1" src="img/glav/logo2.png" alt="">
             <p>
                 © 2020-2038 All rights reserved
             </p>
@@ -372,6 +372,12 @@
     </footer>
     <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous">
     </script>
-    <script src="js/main.js"></script>
+    <script>
+        $ (function () {
+            $ ('.menu-burger').click(function () {
+                $ ('.menu').toggle('show-menu')
+            })
+        });
+    </script>
 </body>
 </html>
