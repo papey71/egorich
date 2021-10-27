@@ -872,6 +872,7 @@
 
     .crown p {
         position: absolute;
+        width: 320px;
         left: 59px;
         top: 287px;
         font-family: 'Open Sans';
@@ -902,6 +903,7 @@
 
     .cup p {
         position: absolute;
+        width: 320px;
         left: 59px;
         top: 439px;
         font-family: 'Open Sans';
@@ -932,6 +934,7 @@
 
     .like p {
         position: absolute;
+        width: 315px;
         left: 59px;
         top: 549px;
         font-family: 'Open Sans';
@@ -962,6 +965,7 @@
 
     .person p {
         position: absolute;
+        width: 300px;
         left: 59px;
         top: 688px;
         font-family: 'Open Sans';
