@@ -156,6 +156,30 @@
         color: #FFFFFF;
         margin-bottom: 35px;
     }
+
+    .menu-seti1 .inst {
+        position: absolute;
+        top: 646px;
+        left: 404px;
+    }
+    
+    .menu-seti1 .ds {
+        position: absolute;
+        top: 646px;
+        left: 462px;
+    }
+    
+    .menu-seti1 .tg {
+        position: absolute;
+        top: 645px;
+        left: 527px;
+    }
+    
+    .menu-seti1 .vk {
+        position: absolute;
+        top: 649px;
+        left: 587px;
+    }
     
     .main {
         margin-left: 25px;

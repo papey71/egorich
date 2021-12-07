@@ -1,4 +1,40 @@
 @media screen and (max-width: 1920px) and (orientation: landscape) {
+    .logo-menu-phone {
+        display: none;
+    }
+
+    .menu-burger {
+        display: none;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    .sub-footer {
+        display: none;
+    }
+
+    .cup-phone {
+        display: none;
+    }
+
+    .like-phone {
+        display: none;
+    }
+
+    .person-phone {
+        display: none;
+    }
+
+    .crown-phone {
+        display: none;
+    }
+
+    .img112 {
+        display: none;
+    }
+    
     body {
         padding: 0px;
         margin: auto;

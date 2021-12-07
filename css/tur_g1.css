@@ -90,6 +90,14 @@
         left: 1039px;
         top: 40px;
     }
+
+    .img112 {
+        display: none;
+    }
+
+    .sub-footer {
+        display: none;
+    }
     
     .header-link a {
         font-family: 'Montserrat', sans-serif;
